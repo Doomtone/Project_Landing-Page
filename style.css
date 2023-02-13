@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
+    font-family: 'Roboto', sans-serif;;
 }
 
 .header {
@@ -16,6 +17,7 @@ body {
 
 .logo > p {
     color: #F9FAF8;
+    font-weight: ;
 }
 
 .nav > a {
