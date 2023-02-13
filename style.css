@@ -27,11 +27,13 @@ body {
 .nav > a {
     text-decoration: none;
     color: #F9FAF8;
+    margin-left: 10px;
 }
 
 .hero {
     display: flex;
     justify-content: center;
+    margin: 100px; 
 }
 
 .hero-image {
@@ -52,16 +54,19 @@ body {
     color: #F9FAF8;
     flex-wrap: wrap;
     flex-basis: 450px;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .hero-bold-text {
     font-size: 48px;
     font-weight: bold;
+    color: #F9FAF8;
 }
 
 button {
     max-width: 80px;
-    height: 30px;
+    height: 35px;
     background-color: #3882f6;
     color: #F9FAF8;
     border-radius: 10px;
