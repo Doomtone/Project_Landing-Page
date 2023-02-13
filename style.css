@@ -29,3 +29,7 @@ body {
     color: #F9FAF8;
 }
 
+.hero {
+    display: flex;
+}
+
