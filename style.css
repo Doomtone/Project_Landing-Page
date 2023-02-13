@@ -11,6 +11,7 @@ body {
 .header-top {
     display: flex;
     justify-content: space-between;
+    margin: 0px 150px;
 }
 
 .logo > p {
