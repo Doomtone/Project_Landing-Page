@@ -13,16 +13,19 @@ body {
 
 .header-top {
     display: flex;
-    justify-content: space-between;
-    margin: 0px 180px;
+    justify-content: space-around;
     align-items: center;
-    flex: 0 0 auto;
+    flex: 1 0 auto;
 }
 
 .logo > p {
     color: #F9FAF8;
     font-weight: bold;
-    font-size: 18px;
+    font-size: ;
+}
+
+.nav {
+    margin-left: 250px; 
 }
 
 .nav > a {
