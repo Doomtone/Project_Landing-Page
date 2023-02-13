@@ -33,3 +33,12 @@ body {
     display: flex;
 }
 
+.hero-image {
+    height: 250px;
+    width: 500px;
+    background-color: gray;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
