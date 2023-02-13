@@ -13,11 +13,12 @@ body {
     display: flex;
     justify-content: space-between;
     margin: 0px 150px;
+    align-items: center;
 }
 
 .logo > p {
     color: #F9FAF8;
-    font-weight: ;
+    font-weight: bold;
 }
 
 .nav > a {
