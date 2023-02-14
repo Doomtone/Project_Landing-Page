@@ -8,6 +8,7 @@ body {
     font-family: 'Roboto', sans-serif;;
 }
 
+
 .header {
     background-color: #1F2937;
     display: flex;
@@ -21,6 +22,7 @@ body {
     flex: 1 0 auto;
 }
 
+
 .logo > p {
     color: #F9FAF8;
     font-weight: bold;
@@ -33,10 +35,11 @@ body {
     margin-left: 10px;
 }
 
+
 .hero {
     display: flex;
     justify-content: space-around;
-    margin: 100px 250px;
+    padding: 100px 250px;
 }
 
 .hero-image {
@@ -49,7 +52,6 @@ body {
     align-items: center;
     margin-left: 10px;
 }
-
 
 .hero-text {
     display: flex;
@@ -80,3 +82,4 @@ button {
     border: none;
     font-weight: bold;
 }
+
