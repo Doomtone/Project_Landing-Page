@@ -38,9 +38,8 @@ body {
 
 .hero {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-basis: 400px;
-    justify-content: center;
     align-items: center;
     flex-shrink: 1;
 }
@@ -53,6 +52,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: -150px;
 }
 
 .hero-text {
