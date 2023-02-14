@@ -39,7 +39,10 @@ body {
 .hero {
     display: flex;
     justify-content: space-around;
-    padding: 100px 250px;
+    flex-basis: 400px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 1;
 }
 
 .hero-image {
@@ -50,7 +53,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 10px;
 }
 
 .hero-text {
