@@ -91,5 +91,5 @@ button {
 .random-article {
     display: flex;
     flex-direction: column;
-    
+    align-items: center;
 }
