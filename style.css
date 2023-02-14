@@ -87,3 +87,9 @@ button {
     font-weight: bold;
 }
 
+
+.random-article {
+    display: flex;
+    flex-direction: column;
+    
+}
