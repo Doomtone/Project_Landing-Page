@@ -59,7 +59,6 @@ body {
 .hero-text {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
     flex-basis: 450px;
     font-size: 18px;
     flex-wrap: wrap;
