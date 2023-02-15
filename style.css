@@ -51,7 +51,7 @@ body {
     display: flex;
     flex-basis: 400px;
     flex-shrink: 1;
-    flex-wrap: wrap;
+    flex-wrap: no-wrap;
     align-items: center;
     justify-content: space-between;
 }
