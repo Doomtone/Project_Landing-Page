@@ -103,3 +103,9 @@ button {
 .random-panels {
     display: flex;
 }
+
+.random-panels > div {
+    max-width: 150px;
+    text-align: center;
+    margin-left: 40px;
+}
