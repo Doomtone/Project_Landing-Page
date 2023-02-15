@@ -134,5 +134,8 @@ button {
 
 .quote > .thor {
     align-self: center;
-    font-weight: bold;
+    font-weight: bold; 
+    font-size: 36px;
+    margin-left: 400px;
+    margin-top: -50px;
 }
