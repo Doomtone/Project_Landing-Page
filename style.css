@@ -23,6 +23,7 @@ body {
     flex: 1 0 auto;
     max-width: 1000px;
     margin: auto;
+    flex-wrap: wrap;
 }
 
 .header-top {
@@ -148,7 +149,8 @@ button {
     display: flex;
     flex-direction: column;
     max-width: 1000px;
-    min-height: 400px;
+    min-height: 00px;
+    justify-content: center;
 }
 
 .quote > .quote-text {
