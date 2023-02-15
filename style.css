@@ -92,4 +92,10 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #ffffff;
+}
+
+.random-article > p {
+    font-size: 36px;
+    color: #1F2937;
 }
