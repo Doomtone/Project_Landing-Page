@@ -17,11 +17,7 @@ body {
 
 .header-top {
     display: flex;
-    justify-content: center;
-    align-items: center;
     flex: 1 0 auto;
-    justify-content: space-between;
-    max-width: 1000px;
 }
 
 
@@ -40,13 +36,9 @@ body {
 
 .hero {
     display: flex;
-    justify-content: center;
     flex-basis: 400px;
-    align-items: center;
     flex-shrink: 1;
     flex-wrap: wrap;
-    max-width: 1000px;
-    margin: auto;
 }
 
 .hero-image {
