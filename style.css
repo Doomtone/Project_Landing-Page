@@ -61,7 +61,6 @@ body {
     flex-direction: column;
     flex-basis: 450px;
     font-size: 18px;
-    flex-wrap: wrap;
 }
 
 .hero-container > div {
