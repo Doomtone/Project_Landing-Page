@@ -90,7 +90,7 @@ body {
 }
 
 button {
-    max-width: 100px;
+    width: 100px;
     height: 30px;
     margin-top: 10px;
     background-color: #3882f6;
@@ -125,7 +125,7 @@ button {
 }
 
 .random-panels > div {
-    max-width: 150px;
+    width: 150px;
     text-align: center;
     margin-left: 40px;
 }
@@ -154,7 +154,7 @@ button {
 }
 
 .quote > .quote-text {
-    max-width: 800px;
+    width: 800px;
     font-size: 36px;
     font-style: italic;
 }
