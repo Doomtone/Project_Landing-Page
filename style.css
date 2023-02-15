@@ -24,6 +24,12 @@ body {
     margin: auto;
 }
 
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 
 .logo > p {
     color: #F9FAF8;
