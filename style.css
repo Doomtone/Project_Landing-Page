@@ -43,6 +43,8 @@ body {
     align-items: center;
     flex-shrink: 1;
     flex-wrap: wrap;
+    max-width: 1000px;
+    margin: auto;
 }
 
 .hero-image {
