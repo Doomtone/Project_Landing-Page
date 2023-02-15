@@ -49,6 +49,8 @@ body {
     flex-basis: 400px;
     flex-shrink: 1;
     flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .hero-image {
@@ -59,7 +61,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 50px;
 }
 
 .hero-container {
