@@ -8,6 +8,7 @@ body {
     font-family: 'Roboto', sans-serif;;
 }
 
+/* ---------------------------------  */
 
 .top-container {
     background-color: #1F2937;
@@ -43,6 +44,7 @@ body {
     margin-left: 10px;
 }
 
+/* --------------------------------- */
 
 .hero {
     display: flex;
@@ -92,6 +94,7 @@ button {
     font-weight: bold;
 }
 
+/* ---------------------------------  */
 
 .random-container {
     display: flex;
@@ -125,6 +128,7 @@ button {
     font-size: 18px;
 }
 
+/* ---------------------------------  */
 
 .quote {
     display: flex;
