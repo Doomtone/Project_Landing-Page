@@ -8,7 +8,7 @@ body {
     font-family: 'Roboto', sans-serif;;
 }
 
-/* ---------------------------------  */
+/* ---------- HEADER ----------  */
 
 .top-parent {
     background-color: #1F2937;
@@ -45,7 +45,7 @@ body {
     margin-left: 10px;
 }
 
-/* --------------------------------- */
+/* ---------- HERO ---------- */
 
 .hero {
     display: flex;
@@ -97,7 +97,7 @@ button {
     font-weight: bold;
 }
 
-/* ---------------------------------  */
+/* ---------- RANDOM ----------  */
 
 .random-parent {
     display: flex;
@@ -138,7 +138,7 @@ button {
     font-size: 18px;
 }
 
-/* ---------------------------------  */
+/* ---------- QUOTE ----------  */
 
 .quote-parent {
     display: flex;
