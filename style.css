@@ -171,6 +171,11 @@ button {
 
 .call-text{
     color: #ffffff;
+    font-weight: lighter;
+}
+
+p > span {
+    font-weight: bold;
 }
 
 .call-to {
