@@ -168,6 +168,11 @@ button {
 }
 
 /* ---------- CALL ----------  */
+
+.call > div {
+    color: #ffffff;
+}
+
 .call-to {
     height: 300px;
     width: 1000px;
