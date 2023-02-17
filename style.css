@@ -172,6 +172,5 @@ button {
 .call {
     display: flex;
     flex-direction: row;
-    background-color: #ffffff;
     justify-content: space-around;
 }
