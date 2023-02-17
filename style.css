@@ -213,7 +213,11 @@ button {
 /* ---------- FOOTER ----------  */
 
 .footer-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #1F2937;
+    height: 80px;
 }
 
 .footer-parent > p {
