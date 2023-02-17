@@ -188,6 +188,7 @@ button {
 
 .call-blue {
     background-color: #3882f6;
-    height: 150px;
+    height: 100px;
     width: 800px;
+    border-radius: 10px;
 }
