@@ -169,8 +169,8 @@ button {
 
 /* ---------- CALL ----------  */
 
-.call-parent {
+.call {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-color: #ffffff;
 }
