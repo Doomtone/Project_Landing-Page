@@ -174,3 +174,9 @@ button {
     flex-direction: row;
     justify-content: space-around;
 }
+
+.call-blue {
+    background-color: #3882f6;
+    height: 150px;
+    width: 800px;
+}
