@@ -204,3 +204,8 @@ p > span {
     width: 800px;
     border-radius: 10px;
 }
+
+button {
+    border: 1px solid #ffffff;
+    border-radius: 7px;
+}
