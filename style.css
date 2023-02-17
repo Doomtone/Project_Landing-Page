@@ -172,5 +172,5 @@ button {
 .call-parent {
     display: flex;
     flex-direction: column;
-    background-color: #E5E7EB;
+    background-color: #ffffff;
 }
