@@ -207,7 +207,7 @@ p > span {
     border-radius: 10px;
 }
 
-button {
+.call > button {
     border: 1px solid #ffffff;
     border-radius: 7px;
 }
