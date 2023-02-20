@@ -10,7 +10,7 @@ The first picture is the full design showing what
 The second image is a reference for colors and fonts used in the example.
 
 I tried to follow the example because I have no experience with web development, 
-and to make sure I understand the lessons by trying to get as close as I could.
+and to make sure I understand the lessons by trying to get as close as I can.
 
 # What I learned
 As said in the introduction I tried to follow along with the examples given, 
